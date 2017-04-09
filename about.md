@@ -11,10 +11,8 @@ Strong knowledge in Linux, Python, Automation, C++. Interested in to learn new t
 
 ### More Information
 
-I started programming from Linux kernel compilation, it take to much time. After reading the `The anatomy of search engine` article then I started new project, to create web repository. 
-
-Web crawler is important part of this project. Python language is perfact for this. Client, Server, repository manager all modules written in Python. I learn Python from online and this project. After I joined PythonPune group and the expertise people give talk and share experience, knowledge. I learn lot off from this group.
+Start exploring Compiler design, GCC, Clang and LLVM. Make happy in contributting open source projects. Submitted some patches in Linux kernel, Openstack, sosreport.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[amitg.b14@gmail.com](mailto:amitg.b14@gmail.com)
