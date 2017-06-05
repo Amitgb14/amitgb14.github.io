@@ -57,4 +57,9 @@ Some of the topics which Amit touched:
 After the session finished we continue discussed about various topic related to power optimization, cpu, memory and other people shared there experience and asked queries.
 
 
+Reference
+----------
+* [Power Management Session Slides](https://reserved-bit.com/wp-content/uploads/2017/06/power-management-amit-kucheria.pdf) - Amit Kucheria
+* [Minutes of the meetup](http://lists.reserved-bit.com/pipermail/kernel-meetup-reserved-bit.com/2017-May/000101.html) - Pankaj Gupta
+
 
