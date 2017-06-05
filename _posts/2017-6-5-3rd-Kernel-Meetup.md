@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3rd-Kernel-Meetup!
+title: 3rd Kernel Pune Meetup!
 ---
 
 
