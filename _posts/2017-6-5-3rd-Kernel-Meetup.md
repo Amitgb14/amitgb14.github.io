@@ -4,7 +4,7 @@ title: 3rd Kernel Pune Meetup!
 ---
 
 
-Reserved-bit organised 3rd Kernel Pune meetup on 21st May17. This meetup topic was “Overview of Power Management” by Amit Kucheria. Amit is currently working in Linaro to lead power optimization team and have great experience in power optimization.
+Reserved-bit organised 3rd Kernel Pune meetup on 21st May17. This meetup topic was “Power Management In Linux” by Amit Kucheria. Amit is currently working in Linaro to lead power optimization team and have great experience in power optimization.
  
 The all session was interesting and we get to know how the power management system work in our latest mobile, computer and embedded devices.
  
