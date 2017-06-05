@@ -14,7 +14,7 @@ Amit K cover lot of interesting points that we get basic understanding about how
 
 
 ```
-Power  ∝ Performance
+Power ∝ Performance
 
 If Performance want to increase then required more Power. 
 If Power is down then performance also getting down.
